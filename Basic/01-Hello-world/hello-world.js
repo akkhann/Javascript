@@ -4,7 +4,7 @@
 // output of js in terms of following
 
 // this will alert or popup
-// alert("Ehsan Ali Khan")
+// alert("Ehsan Ali Khan Shah" )
 
 // this will show or edit in inner html
 document.getElementById("namechange").innerHTML = "ehsan to ahsan";
